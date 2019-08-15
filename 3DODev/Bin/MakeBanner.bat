@@ -1,0 +1,2 @@
+MakeBanner.exe BannerScreen.bmp BannerScreen
+pause
